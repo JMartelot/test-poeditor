@@ -1,0 +1,25 @@
+{
+  "menu":{
+    "clientInitiatives": "Client initiatives",
+    "clientBook": "Client Book",
+    "reports": "Reports",
+    "myLastCustomer": "My last customer",
+    "myProfile": "My profile",
+    "more": "More",
+    "stores": "Stores",
+    "survey": "Survey",
+    "tips": "Tips",
+    "users": "Users"
+  },
+  "task":{
+    "createTask":"Create a task",
+    "overdue" : "Overdue",
+    "progress": "In Progress",
+    "coming": "Coming Up",
+    "client": "Client",
+    "assigned" : "assigned to",
+    "assign":"Assign",
+    "marked":"Mark as complete",
+    "category":"Category"
+  }
+}
