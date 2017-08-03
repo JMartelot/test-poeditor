@@ -1,0 +1,30 @@
+{
+    "menu": {
+        "clientInitiatives": "",
+        "clientBook": "",
+        "reports": "",
+        "myLastCustomer": "",
+        "myProfile": "",
+        "more": "",
+        "stores": "",
+        "survey": "",
+        "tips": "",
+        "users": ""
+    },
+    "task": {
+        "createTask": "",
+        "overdue": "",
+        "progress": "",
+        "coming": "",
+        "client": "",
+        "assigned": "",
+        "assign": "",
+        "marked": "",
+        "category": ""
+    },
+    "test": {
+        "firstname": "",
+        "lastname": "",
+        "address": ""
+    }
+}
