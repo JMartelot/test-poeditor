@@ -23,18 +23,5 @@ for LANGUAGE in ${LANGUAGES[@]}
 do
     #Get translations into poeditor branch
     curl "https://poeditor.com/api/webhooks/github?api_token=be16af5e4c263251da66a8efcabb1182&id_project=122575&language=$LANGUAGE&operation=export_terms_and_translations"
-
-    #Compare translations files on poedtior branch with master 
-    # DIFF=`git diff master:locales/$LANGUAGE/translation.json -- locales/$LANGUAGE/translation.json`
-
-    # #If there is difference between translation files update them
-    # if [ ! -z $DIFF ]
-    # then
-    #     echo "New translations for $LANGUAGE"
-        
-    #     git add locales/$LANGUAGE/translation.json
-    #     git commit -m "Add translation for $LANGUAGE language"
-
-    # fi
 done
 
