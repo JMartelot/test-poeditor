@@ -23,8 +23,8 @@
     "category":"Category"
   },
   "test":{
-      "firstname":"",
-      "lastname":"",
-      "address":"address"
+      "firstname":"Firstname",
+      "lastname":"Lastname",
+      "address":"Address"
   }
 }
