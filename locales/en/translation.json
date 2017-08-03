@@ -24,7 +24,10 @@
   },
   "test":{
       "firstname":"Firstname",
-      "lastname":"Lastname",
-      "address":"Address"
+      "lastname":"Lastname"
+  },
+  "address":{
+      "street":"Street",
+      "city":"City"
   }
 }
