@@ -12,18 +12,18 @@
         "users": "Utilisateurs"
     },
     "task": {
-        "createTask": "",
+        "createTask": "Créer une tâche",
         "overdue": "",
-        "progress": "",
+        "progress": "En cours",
         "coming": "",
-        "client": "",
+        "client": "Client",
         "assigned": "",
         "assign": "",
         "marked": "",
-        "category": ""
+        "category": "Categorie"
     },
     "test": {
-        "firstname": "",
+        "firstname": "Prénom",
         "lastname": "",
         "address": ""
     },
