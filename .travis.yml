@@ -5,3 +5,7 @@ php:
 
 script: 
   - ./scripts/poeditor.sh
+
+branches:
+  except:
+    - poeditor
