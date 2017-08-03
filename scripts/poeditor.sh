@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Branch name where commit are done to add new translation by poeditor
 POEDITOR_BRANCH='poeditor'
