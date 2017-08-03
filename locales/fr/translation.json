@@ -2,14 +2,14 @@
     "menu": {
         "clientInitiatives": "",
         "clientBook": "",
-        "reports": "",
-        "myLastCustomer": "",
-        "myProfile": "",
-        "more": "",
-        "stores": "",
-        "survey": "",
-        "tips": "",
-        "users": ""
+        "reports": "Rapports",
+        "myLastCustomer": "Mon dernier client",
+        "myProfile": "Mon profil",
+        "more": "Plus",
+        "stores": "Magasins",
+        "survey": "Sondage",
+        "tips": "Astuces",
+        "users": "Utilisateurs"
     },
     "task": {
         "createTask": "",
@@ -26,5 +26,9 @@
         "firstname": "",
         "lastname": "",
         "address": ""
+    },
+    "address": {
+        "street": "",
+        "city": ""
     }
 }
