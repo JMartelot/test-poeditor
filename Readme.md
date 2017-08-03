@@ -2,6 +2,6 @@
 
 # Poeditor integration.
 
-Purpose of this project: test integration of poeditor wit github.
+Purpose of this project: test integration of poeditor with github.
 
 Automatic import and export term to translate in several languages.
